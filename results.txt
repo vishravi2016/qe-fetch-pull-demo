@@ -1,1 +1,2 @@
 TC001:login validation - PASS
+TC002:password validation- PASS
